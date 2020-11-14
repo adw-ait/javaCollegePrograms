@@ -1,0 +1,12 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ûÓ¶õÿÿÿÿÿ8ÙàšÜÓ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ÙàšÜÓ.
+e
+java:S2095	"IUse try-with-resources or close this "MongoClient" in a "finally" clause.(ÑÑˆ58ÙàšÜÓ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(•óÄŸúÿÿÿÿ8ÙàšÜÓ.
+Y
+java:S1854"<Remove this useless assignment to local variable "database".(ñÛ›·8ÙàšÜÓ.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ëà”­8ü›ÜÓ.
+J
+java:S1481"-Remove this unused "database" local variable.(ñÛ›·8ÙàšÜÓ.

@@ -1,0 +1,11 @@
+
+[
+java:S1854">Remove this useless assignment to local variable "credential".(ÓğğÆ8„¾«ÜÓ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±—Ã8„¾«ÜÓ.
+Q
+java:S1481"/Remove this unused "credential" local variable.(ºö‚òúÿÿÿÿ8„¾«ÜÓ.
+e
+java:S2095	"IUse try-with-resources or close this "MongoClient" in a "finally" clause.(ÑÑˆ58„¾«ÜÓ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8„¾«ÜÓ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(•óÄŸúÿÿÿÿ8„¾«ÜÓ.
